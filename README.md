@@ -12,6 +12,8 @@ O limarka é uma ferramenta que possibilita seus usuários escreverem relatório
 
 # Especificidades do limarka
 
+[![Join the chat at https://gitter.im/abntex/limarka](https://badges.gitter.im/abntex/limarka.svg)](https://gitter.im/abntex/limarka?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <!-- Explain what makes your project special, useful, exciting! -->
 
 * Exige conhecimentos mínimos sobre as Normas da ABNT
