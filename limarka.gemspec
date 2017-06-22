@@ -38,5 +38,9 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'pandoc_abnt'
   spec.add_dependency 'guard'
   spec.add_dependency 'guard-shell'
+  
+  
+  spec.add_development_dependency 'codacy-coverage'
+  
 end
 

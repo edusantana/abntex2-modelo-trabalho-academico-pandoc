@@ -1,8 +1,13 @@
 # coding: utf-8
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+
+require 'codacy-coverage' # https://github.com/codacy/ruby-codacy-coverage#setup
+Codacy::Reporter.start
+
 require 'limarka'
 require 'yaml'
 require 'pry-byebug'
+
 
 def modelo_dir
   Dir.pwd + '/modelo-oficial'
