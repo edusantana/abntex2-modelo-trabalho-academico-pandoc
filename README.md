@@ -5,6 +5,9 @@
 ![Normas da ABNT em 2017: Atualizadas](https://img.shields.io/badge/Normas%20da%20ABNT%20em%202017-Atualizadas-brightgreen.svg) 
 ![NBR 14724:2011 100%](https://img.shields.io/badge/NBR%202014724%3A2011-100%25-brightgreen.svg)
 
+[![Backers on Open Collective](https://opencollective.com/limarka/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/limarka/sponsors/badge.svg)](#sponsors) 
+
 Olá! Bem vindo ao limarka!
 
 <!-- Show what you're doing, for who, and why.  -->
@@ -103,6 +106,26 @@ O meio de comunicação oficial do limarka é uma sala de bate papo no gitter: [
 - Facilidade para geração de códigos para inclusão de Figuras, Quadros, Tabelas, Referências e Citações;
 - Facilidade em edição ou personalização de templates;
 - Facilidade de obter suporte ao código Latex gerado (compatível com o estilo do abnTeX2);
+
+## Credits
+### Contributors
+
+This project exists thanks to all the people who contribute. <img src="https://opencollective.com/limarka/contributors.svg?width=890&button=false" /></a>
+
+
+### Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/limarka#backer)]
+
+<a href="https://opencollective.com/limarka#backers" target="_blank"><img src="https://opencollective.com/limarka/backers.svg?width=890"></a>
+
+
+### Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/limarka#sponsor)]
+
+<a href="https://opencollective.com/limarka/sponsor/0/website" target="_blank"><img src="https://opencollective.com/limarka/sponsor/0/avatar.svg"></a>
+
 
 # License
 
